@@ -1,6 +1,6 @@
 [package]
 
-name = "ruby-mruby"
+name = "rust-mruby"
 version = "0.1.0"
 comment = "MRuby bindings for Rust"
 authors = ["Sebastian Edwards"]
